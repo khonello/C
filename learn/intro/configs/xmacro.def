@@ -1,0 +1,5 @@
+#define FUNCS(arg) \
+    X(doSomeThing) \
+    X(doSomeThingAgain) \
+    X(doSomeThingAgainAgain) \
+    X(doSomeThingAgainAgainAgain) 

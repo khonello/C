@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "terminal.integrated.defaultProfile.windows": "Ubuntu-Preview (WSL)",
+    "C_Cpp.default.compilerPath": "c:\\ProgramData\\mingw64\\mingw64\\bin\\gcc.exe"
+}
